@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.tton.mlibrary">
+
+    <application android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:supportsRtl="true">
+
+    </application>
+
+</manifest>

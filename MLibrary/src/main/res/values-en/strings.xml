@@ -1,0 +1,18 @@
+<resources>
+    <string name="exit_app_notice">click again to exit this app</string>
+    <string name="unknown_exception"> sorry, our app occurs some problems.\n we are saving logs now,\n please contact with us for help</string>
+    <string name="btn_positive">Yes</string>
+    <string name="btn_negative">No</string>
+    <string name="update_or_not">find a new version，update or not?</string>
+    <string name="newUpdateAvailable">find a new version</string>
+    <string name="dialogPositiveButton">download right now</string>
+    <string name="dialogNegativeButton">remind me later</string>
+    <string name="app_no_new_update">no new version found</string>
+    <string name="download_progress">now loading:%1$d%%</string>
+    <string name="download_success">download successfully，click to set up</string>
+    <string name="download_begin">start download</string>
+    <string name="download_done">download successfully</string>
+
+
+    <string name="dialog_text">loading now,please wait&#8230;&#8230;&#8230;</string>
+</resources>
